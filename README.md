@@ -42,4 +42,4 @@ The disclosure is intentionally limited to a high-level technical description in
 
 ## Credits
 
-Discovered by Jiarui Che.
+Discovered by Runtian Xiao.
